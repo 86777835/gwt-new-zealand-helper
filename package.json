@@ -1,0 +1,1 @@
+{"name":"gwt-new-zealand-helper","private":true,"type":"module","scripts":{"test":"node tests/run.mjs","dev":"wrangler dev --port 8961","sync":"node tools/sync.mjs"}}
